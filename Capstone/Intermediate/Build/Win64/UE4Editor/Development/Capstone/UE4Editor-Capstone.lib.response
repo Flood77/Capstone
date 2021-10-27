@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Capstone.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Sarcasm\Documents\Unreal Projects\Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\Capstone.cpp.obj"
+"C:\Users\Sarcasm\Documents\Unreal Projects\Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\CapstoneCharacter.cpp.obj"
+"C:\Users\Sarcasm\Documents\Unreal Projects\Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\CapstoneGameMode.cpp.obj"
+"C:\Users\Sarcasm\Documents\Unreal Projects\Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\Capstone.init.gen.cpp.obj"
+"C:\Users\Sarcasm\Documents\Unreal Projects\Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\CapstoneCharacter.gen.cpp.obj"
+"C:\Users\Sarcasm\Documents\Unreal Projects\Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\CapstoneGameMode.gen.cpp.obj"
+"C:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\Users\Sarcasm\Documents\Unreal Projects\Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone.lib"

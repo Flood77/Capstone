@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Capstone",
+			"Path": "C:\\Users\\Sarcasm\\Documents\\Unreal Projects\\Capstone\\Capstone\\Source\\Capstone.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CapstoneEditor",
+			"Path": "C:\\Users\\Sarcasm\\Documents\\Unreal Projects\\Capstone\\Capstone\\Source\\CapstoneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

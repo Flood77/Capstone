@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9D78ACAB-4483-F083-0CA0-9F9C487250DC}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Capstone",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
