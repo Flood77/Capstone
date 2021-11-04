@@ -5,7 +5,7 @@
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\DatasmithSolidworks2021.Build.cs" />
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Readme.txt" />
     <Filter Include="DatasmithSolidworks">
-      <UniqueIdentifier>{648E3D53-6E3F-4208-B498-B30325B59567}</UniqueIdentifier>
+      <UniqueIdentifier>{FA7350DC-8D94-4871-9C0A-52B6F1C5162B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\DatasmithSolidworks\MainIconLarge.bmp">
       <Filter>DatasmithSolidworks</Filter>
@@ -20,13 +20,13 @@
       <Filter>DatasmithSolidworks</Filter>
     </None>
     <Filter Include="DatasmithSolidworks\Properties">
-      <UniqueIdentifier>{11A06D77-80E5-4D25-A7FE-DE2F2B231E7C}</UniqueIdentifier>
+      <UniqueIdentifier>{099ADC57-C32E-430F-A50E-62FA567CC6D5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\DatasmithSolidworks\Properties\AssemblyInfo.cs">
       <Filter>DatasmithSolidworks\Properties</Filter>
     </None>
     <Filter Include="Installer">
-      <UniqueIdentifier>{CC5F4050-2DF6-49B3-BB5F-6CEDD995752D}</UniqueIdentifier>
+      <UniqueIdentifier>{0BCAA600-5412-46B3-A0E9-463C33B28DA4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\CustomActions.wxs">
       <Filter>Installer</Filter>
@@ -56,7 +56,7 @@
       <Filter>Installer</Filter>
     </None>
     <Filter Include="Installer\Localization">
-      <UniqueIdentifier>{F0C5BDDE-0293-44A6-97FE-8C8D7A0E57C2}</UniqueIdentifier>
+      <UniqueIdentifier>{1FA72E50-0E33-43FD-B42D-07C0078B6CEE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Localization\de-de.wxl">
       <Filter>Installer\Localization</Filter>
@@ -101,7 +101,7 @@
       <Filter>Installer\Localization</Filter>
     </None>
     <Filter Include="Installer\Resources">
-      <UniqueIdentifier>{4DE73D6B-8D4F-4E3D-A0FE-E0142359C7E8}</UniqueIdentifier>
+      <UniqueIdentifier>{45B1CB5B-D023-478A-9D1B-5C4179EE97D2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Banner.bmp">
       <Filter>Installer\Resources</Filter>
@@ -128,13 +128,13 @@
       <Filter>Installer\Resources</Filter>
     </None>
     <Filter Include="Installer\Resources\Images">
-      <UniqueIdentifier>{025E8B3D-48BB-478B-855E-4C9ACCE8A3F4}</UniqueIdentifier>
+      <UniqueIdentifier>{2D162BEF-6260-47DB-83A5-A08AD3FDD920}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Images\Epic_Games_logo.bmp">
       <Filter>Installer\Resources\Images</Filter>
     </None>
     <Filter Include="Installer\Resources\Images\Background">
-      <UniqueIdentifier>{197383BB-53E1-4F1F-947C-157825B7F896}</UniqueIdentifier>
+      <UniqueIdentifier>{9885C56D-5FDF-4DC3-AC27-630328458ADE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Images\Background\28190.bmp">
       <Filter>Installer\Resources\Images\Background</Filter>
@@ -152,7 +152,7 @@
       <Filter>Installer\Resources\Images\Background</Filter>
     </None>
     <Filter Include="Installer\Resources\Images\General">
-      <UniqueIdentifier>{3B481579-AB07-4C13-BEF1-DB1773F03C4F}</UniqueIdentifier>
+      <UniqueIdentifier>{32A6D91E-8C25-445A-95C4-8273E60D44B6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Resources\Images\General\banner.bmp">
       <Filter>Installer\Resources\Images\General</Filter>
@@ -161,7 +161,7 @@
       <Filter>Installer\Resources\Images\General</Filter>
     </None>
     <Filter Include="Installer\Scripts">
-      <UniqueIdentifier>{F3B290B2-EA7D-404C-906F-39D351305BE4}</UniqueIdentifier>
+      <UniqueIdentifier>{3F640678-11D6-4CA8-8453-B15EEF38D8F1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Installer\Scripts\CreateMultilanguageInstaller.bat">
       <Filter>Installer\Scripts</Filter>
@@ -170,7 +170,7 @@
       <Filter>Installer\Scripts</Filter>
     </None>
     <Filter Include="PreprocessWxs">
-      <UniqueIdentifier>{718321C5-DF79-4011-926B-831FF63C2333}</UniqueIdentifier>
+      <UniqueIdentifier>{4ECA800C-9358-4ED1-8C42-F9A4277BA1B7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\PreprocessWxs\App.config">
       <Filter>PreprocessWxs</Filter>
@@ -179,13 +179,13 @@
       <Filter>PreprocessWxs</Filter>
     </None>
     <Filter Include="PreprocessWxs\Properties">
-      <UniqueIdentifier>{F48AF50E-6BE1-4327-8E14-19460DAB803F}</UniqueIdentifier>
+      <UniqueIdentifier>{B52971A1-C700-4993-936D-D758183EAC97}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\PreprocessWxs\Properties\AssemblyInfo.cs">
       <Filter>PreprocessWxs\Properties</Filter>
     </None>
     <Filter Include="Private">
-      <UniqueIdentifier>{37ADDAB5-2499-406C-9299-D225533AB529}</UniqueIdentifier>
+      <UniqueIdentifier>{6F63F509-E525-403D-AE85-86282DB155FD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\DatasmithExporter.cs">
       <Filter>Private</Filter>
@@ -212,13 +212,13 @@
       <Filter>Private</Filter>
     </None>
     <Filter Include="Private\Animations">
-      <UniqueIdentifier>{B9DF0551-F6C1-4155-9D9B-F1D04BB236B8}</UniqueIdentifier>
+      <UniqueIdentifier>{6D4AF717-E3D8-41E0-AB88-0E1734B968AC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Animations\AnimationExtractor.cs">
       <Filter>Private\Animations</Filter>
     </None>
     <Filter Include="Private\Engine">
-      <UniqueIdentifier>{9C1E1E90-113D-4978-B7D2-5D5F4CE22591}</UniqueIdentifier>
+      <UniqueIdentifier>{DB820F32-88AD-47E6-8FB9-253A3EFC504B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Engine\CommandQueue.cs">
       <Filter>Private\Engine</Filter>
@@ -230,7 +230,7 @@
       <Filter>Private\Engine</Filter>
     </None>
     <Filter Include="Private\Geometry">
-      <UniqueIdentifier>{4C62EAA8-9C11-446A-9981-9A78E1D6F1A0}</UniqueIdentifier>
+      <UniqueIdentifier>{D0E6CDE2-1277-4FE6-BFEA-271E76F6FAA0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Geometry\BoundingBox.cs">
       <Filter>Private\Geometry</Filter>
@@ -278,7 +278,7 @@
       <Filter>Private\Geometry</Filter>
     </None>
     <Filter Include="Private\Materials">
-      <UniqueIdentifier>{F42FA7C6-FD7C-4070-BE0C-EF213DEBE2B7}</UniqueIdentifier>
+      <UniqueIdentifier>{A18AB0EC-1DD1-411D-8143-F4ABAF035F43}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\Materials\MaterialMapper.cs">
       <Filter>Private\Materials</Filter>
@@ -287,7 +287,7 @@
       <Filter>Private\Materials</Filter>
     </None>
     <Filter Include="Private\SwObjects">
-      <UniqueIdentifier>{833E70D2-F0AB-44AC-948A-ABDCD76B4714}</UniqueIdentifier>
+      <UniqueIdentifier>{37F1C2B7-D28F-4F46-88C7-7BC67DB3B9A6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\Private\SwObjects\SwAnimation.cs">
       <Filter>Private\SwObjects</Filter>
@@ -341,7 +341,7 @@
       <Filter>Private\SwObjects</Filter>
     </None>
     <Filter Include="RegistryKeyExistsCustomAction">
-      <UniqueIdentifier>{F4DAB328-4ACC-4BBE-9E8E-F1B8316BA01D}</UniqueIdentifier>
+      <UniqueIdentifier>{0A53F03B-B668-454C-9F50-ADCC3AE2384F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\RegistryKeyExistsCustomAction\CustomAction.config">
       <Filter>RegistryKeyExistsCustomAction</Filter>
@@ -350,7 +350,7 @@
       <Filter>RegistryKeyExistsCustomAction</Filter>
     </None>
     <Filter Include="RegistryKeyExistsCustomAction\Properties">
-      <UniqueIdentifier>{ACDCDA55-5857-4D07-B603-5DAAA74D50CA}</UniqueIdentifier>
+      <UniqueIdentifier>{A319DCFA-C3F1-4FD0-8CF1-CE0DB4D6FA47}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSolidworksExporter\RegistryKeyExistsCustomAction\Properties\AssemblyInfo.cs">
       <Filter>RegistryKeyExistsCustomAction\Properties</Filter>

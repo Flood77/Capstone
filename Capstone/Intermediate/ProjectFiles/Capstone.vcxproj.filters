@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Capstone.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{FE8B0A5C-5990-4C21-AEEA-F2907D277C62}</UniqueIdentifier>
+      <UniqueIdentifier>{AE8C9062-EBAA-49C7-A2FD-C90F33D5C550}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Capstone.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{7BE08DAF-3CBF-4471-A6C1-0982CA85B483}</UniqueIdentifier>
+      <UniqueIdentifier>{A1725E37-0958-4DD3-A1FE-50FD1A424AB4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Capstone">
-      <UniqueIdentifier>{9A2FE495-9269-466D-AEED-818D36E6B464}</UniqueIdentifier>
+      <UniqueIdentifier>{F7CE4AA9-2C73-44BF-A388-D7D7EF870AD7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Capstone\Capstone.Build.cs">
       <Filter>Source\Capstone</Filter>
@@ -53,5 +53,8 @@
     <ClInclude Include="..\..\Source\Capstone\CapstoneGameMode.h">
       <Filter>Source\Capstone</Filter>
     </ClInclude>
+    <None Include="..\..\Source\CapstoneServer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
   </ItemGroup>
 </Project>

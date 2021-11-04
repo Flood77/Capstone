@@ -5,7 +5,7 @@
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\SwitchboardListener\ReadMe.md" />
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\SwitchboardListener\SwitchboardListener.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{A19EC47B-5719-469C-B52D-4EA9F0F22F29}</UniqueIdentifier>
+      <UniqueIdentifier>{2B51FF5E-44E8-495A-A057-D73541DDA7A3}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\SwitchboardListener\Private\CpuUtilizationMonitor.cpp">
       <Filter>Private</Filter>
@@ -47,7 +47,7 @@
       <Filter>Private</Filter>
     </ClInclude>
     <Filter Include="Private\Windows">
-      <UniqueIdentifier>{CDF372B7-1B3C-45B2-95B3-50B888DEF7BB}</UniqueIdentifier>
+      <UniqueIdentifier>{52531871-92D9-4CD4-BC98-48C231A150BE}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\SwitchboardListener\Private\Windows\WindowsCpuUtilizationMonitor.cpp">
       <Filter>Private\Windows</Filter>
@@ -56,7 +56,7 @@
       <Filter>Private\Windows</Filter>
     </ClInclude>
     <Filter Include="Private\Windows\Resources">
-      <UniqueIdentifier>{C90DD127-D75F-4136-BBC3-EB5F3766C621}</UniqueIdentifier>
+      <UniqueIdentifier>{2CE1BF58-FB86-4833-8EF7-B85A86F01234}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\SwitchboardListener\Private\Windows\Resources\Icon.ico">
       <Filter>Private\Windows\Resources</Filter>
@@ -71,7 +71,7 @@
       <Filter>Private\Windows\Resources</Filter>
     </None>
     <Filter Include="Tests">
-      <UniqueIdentifier>{9C2A3429-017F-4AB7-8AD9-A422758CC696}</UniqueIdentifier>
+      <UniqueIdentifier>{253122D9-F9B1-4A71-8C34-211F63E2B42A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\SwitchboardListener\Tests\listener_tests.py">
       <Filter>Tests</Filter>

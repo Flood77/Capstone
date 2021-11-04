@@ -4,7 +4,7 @@
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Windows\BootstrapPackagedGame\BootstrapPackagedGame.Target.cs" />
     <None Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Windows\BootstrapPackagedGame\BootstrapPackagedGame.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{8F7264CC-FEE1-49B6-8157-15D215288777}</UniqueIdentifier>
+      <UniqueIdentifier>{20CD0DF9-495D-4746-85E6-CAEB56F28AC8}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\..\..\..\..\..\..\UnrealEngine\Engine\Source\Programs\Windows\BootstrapPackagedGame\Private\BootstrapPackagedGame.cpp">
       <Filter>Private</Filter>
